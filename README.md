@@ -1,6 +1,6 @@
-# 🛍️ Caixa Loja
+📌 Projeto: Assistente de descontos progressivos
 
-## 📌 Projeto: Assistente de descontos progressivos
+##  
 
 ### ✅ Objetivo
 Calcular descontos de forma rápida, simples e organizada, com base no valor gasto em uma compra.
