@@ -1,4 +1,4 @@
-#. 📌 Projeto: Assistente de Descontos
+# 📌 Projeto: Assistente de Descontos
 
 
 
